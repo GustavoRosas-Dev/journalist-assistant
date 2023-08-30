@@ -1,0 +1,8 @@
+# Sensitive data
+credentials-drive.json
+credentials-sheets.json
+token-drive.json
+token-sheets.json
+
+# Other files
+passo_a_passo_instalacao
